@@ -36,7 +36,7 @@ Run pssect.exe for visualization
 Run werami.exe if you are interested in overlaying the fluid composition contours on top of your sulfide equilibrium assemblage diagram, and Matlab scripts https://www.perplex.ethz.ch/perplex/ibm_and_mac_archives/Perple_X_MatLab_scripts.zip for plotting the contours of the fluid compositions
 
 ## Step 5: 
-Overlap the fluid composition contours onto your phase diagram. The original lines may be a little "stepped" because the calculation is done on a grid, but after some cosmetic changes the diagram looks like this 
+Overlay the fluid composition contours onto your phase diagram. The original lines may be a little "stepped" because the calculation is done on a grid, but after some cosmetic changes the diagram looks like this 
 
 ![sulfide assemblages and fluid composition](https://github.com/DinaKlim/phase_equilibria_Bor/blob/main/sulfides_and_fluid.jpg)
 
