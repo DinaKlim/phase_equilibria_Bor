@@ -1,7 +1,7 @@
 # phase_equilibria_Bor
 TLDR: James Connolly's Perplex page https://www.perplex.ethz.ch/ and the examples https://www.perplex.ethz.ch/perplex_examples.html is all you need for calculating phase diagrams
 
-My favorite thermodynamics course page is here https://www.perplex.ethz.ch/thermo_course/ - very useful for understanding what happens behind the Perpex' scenes 
+My favorite thermodynamics course page is here https://www.perplex.ethz.ch/thermo_course/ - very useful for understanding what happens behind the Perplex' scenes 
 
 # The fun part of my PhD
 
@@ -12,6 +12,13 @@ The first step is to take the composition of the ore and calculate a phase diagr
 
 ## Step 0: download Perplex programs and data files
 https://www.perplex.ethz.ch/
+
+Add the modified solution model and thermodynamic database files from this repository
+
+[thermodynamic database](https://github.com/DinaKlim/phase_equilibria_Bor/blob/main/elsup.dat)
+
+[solution model](https://github.com/DinaKlim/phase_equilibria_Bor/blob/main/solution_model_elsup.dat)
+
 
 ## Step 1: chose your composition, your thermodynamic data file and your solution model file
 Run build.exe (one of the program files downloaded during step 0) and answer all the prompts to create your own problem definition file
