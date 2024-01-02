@@ -13,7 +13,7 @@ The first step is to take the composition of the ore and calculate a phase diagr
 ## Step 0: download Perplex programs and data files
 https://www.perplex.ethz.ch/
 
-Add the modified solution model and thermodynamic database files from this repository
+Add the modified solution model and thermodynamic database files from this repository into the folder with downloaded programs and data files 
 
 [thermodynamic database](https://github.com/DinaKlim/phase_equilibria_Bor/blob/main/elsup.dat)
 
