@@ -20,13 +20,13 @@ Or take the example file that corresponds to one of the compositions of ore samp
 [composition of a sample with covellite-pyrite epithermal vein](https://github.com/DinaKlim/phase_equilibria_Bor/blob/main/1_195.dat)
 
 ## Step 2:
-run vertex.exe to calculate the phase diagram
+Run vertex.exe to calculate the phase diagram
 
 ## Step 3: 
-run pssect.exe for visualization
+Run pssect.exe for visualization
 
 ## Step 4:
-run werami.exe if you are interested in overlaying the fluid composition contours on top of your sulfide equilibrium assemblage diagram, and Matlab scripts https://www.perplex.ethz.ch/perplex/ibm_and_mac_archives/Perple_X_MatLab_scripts.zip for plotting the contours of the fluid compositions
+Run werami.exe if you are interested in overlaying the fluid composition contours on top of your sulfide equilibrium assemblage diagram, and Matlab scripts https://www.perplex.ethz.ch/perplex/ibm_and_mac_archives/Perple_X_MatLab_scripts.zip for plotting the contours of the fluid compositions
 
 ## Step 5: 
 Overlap the fluid composition contours onto your phase diagram. The original lines may be a little "stepped" because the calculation is done on a grid, but after some cosmetic changes the diagram looks like this 
@@ -36,5 +36,5 @@ Overlap the fluid composition contours onto your phase diagram. The original lin
 Stable ore mineral assemblages (black) at fixed T in the presence of H-O-S fluid; green and blue dashed lines delineate the 50/50 predominance fields for the fluid species at high pressure of 100 bar and low pressure of 0.2 bar respectively, red dashed lines indicate the sulfur condensation curve. Abbreviations: bn = bornite, ccp = chalcopyrite, cc = chalcocite, cpr = cuprite, cv = covellite, hem = hematite, mag = magnetite, po = pyrrhotite, py = pyrite, tn = tenorite
 
 ## Optional Step
-If your phase diagrams were criticized by some random part of your committee until the last moment, and if you also got a ton of post-defense revisions, this song may be good for your mental health
+If your phase diagrams faced last-minute criticism from some members of your committee, and if you received numerous revisions to make after your defense, this song might be good for your mental health
 [Zombies ate my pirate ship](https://www.youtube.com/watch?v=8SyaFPfDLCc&list=RDMM8SyaFPfDLCc&index=1)
