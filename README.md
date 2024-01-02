@@ -9,3 +9,27 @@ I like phase diagrams, so I wanted to take the composition of the massive sulfid
 
 The first step is to take the composition of the ore and calculate a phase diagram at a certain temperature; to do that with Perplex, one should indicate the pressure, too. I tried to come up with reasonable assumptions based on the depth of the ore formation, but after calculating 152 phase diagrams during the revision process, I saw that no matter what pressure you put into the calculation file, the boundaries on the phase diagram do not change. Temperature, however, influences these boundaries a lot. 
 
+## Step 0: download Perplex programs and data files
+https://www.perplex.ethz.ch/
+
+## Step 1: chose your composition, your thermodynamic data file and your solution model file
+Run build.exe (one of the program files downloaded during step 0) and answer all the prompts to create your own problem definition file
+
+Or take the example file that corresponds to one of the compositions of ore samples from Bor (Serbia) 
+[composition of a sample with covellite-pyrite epithermal vein](https://github.com/DinaKlim/phase_equilibria_Bor/blob/main/1_195.dat)
+
+## Step 2:
+run vertex.exe to calculate the phase diagram
+
+## Step 3: 
+run pssect.exe for visualization
+
+## Step 4:
+run werami.exe if you are interested in overlaying the fluid composition contours on top of your sulfide equilibrium assemblage diagram, and Matlab scripts https://www.perplex.ethz.ch/perplex/ibm_and_mac_archives/Perple_X_MatLab_scripts.zip for plotting the contours of the fluid compositions
+
+## Step 5: 
+Overlap the fluid composition contours onto your phase diagram. The original lines may be a little "stepped" because the calculation is done on a grid, but after some cosmetic changes the diagram looks like this 
+
+![sulfide assemblages and fluid composition](https://github.com/DinaKlim/phase_equilibria_Bor/blob/main/sulfides_and_fluid.jpg)
+
+Stable ore mineral assemblages (black) at fixed T in the presence of H-O-S fluid; green and blue dashed lines delineate the 50/50 predominance fields for the fluid species at high pressure of 100 bar and low pressure of 0.2 bar respectively, red dashed lines indicate the sulfur condensation curve. Abbreviations: bn = bornite, ccp = chalcopyrite, cc = chalcocite, cpr = cuprite, cv = covellite, hem = hematite, mag = magnetite, po = pyrrhotite, py = pyrite, tn = tenorite
