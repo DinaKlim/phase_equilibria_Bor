@@ -1,7 +1,7 @@
 # phase_equilibria_Bor
 TLDR: James Connolly's Perplex page https://www.perplex.ethz.ch/ and the examples https://www.perplex.ethz.ch/perplex_examples.html is all you need for calculating phase diagrams
 
-ETH's thermodynamics course page is here https://www.perplex.ethz.ch/thermo_course/ - very useful for understanding what happens behind the Perpex' scenes 
+My favorite thermodynamics course page is here https://www.perplex.ethz.ch/thermo_course/ - very useful for understanding what happens behind the Perpex' scenes 
 
 # The fun part of my PhD
 
